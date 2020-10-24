@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":4,
+      "description":"Custom-vibey music!"
+   },
+   "language":{
+      "en_mymusic":{
+         "name":"My Music",
+         "region":"English",
+         "bidirectional":false
+      }
+   }
+}
